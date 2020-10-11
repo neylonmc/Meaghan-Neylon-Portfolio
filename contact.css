@@ -38,7 +38,8 @@
   }
 
   .fab,
-  .fas {
+  .fas,
+  .resume {
     color: black;
     font-family: 'Source Sans Pro', sans-serif;
   }
