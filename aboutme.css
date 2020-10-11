@@ -36,11 +36,11 @@ img {
     width: 300px;    
   }
 
-#runningPic {
-    height: 200px;
-    width: 400px;  
-}
-
 .frame {
     border: 50px solid #22272c;
+}
+
+.navbar {
+    position: fixed;
+    top: 0%;
 }
