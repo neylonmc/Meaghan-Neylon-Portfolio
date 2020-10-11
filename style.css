@@ -39,3 +39,9 @@ img {
 .frame {
     border: 40px solid #22272c;
 }
+
+#contact,
+#aboutme,
+#work {
+  color: white;
+}

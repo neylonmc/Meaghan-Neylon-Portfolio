@@ -2,8 +2,8 @@
 ScrollReveal().reveal('.headline')
 ScrollReveal().reveal('.tagline', { delay: 500 })
 ScrollReveal().reveal('#contact', { delay: 1000 })
-ScrollReveal().reveal('#work', { delay: 1500 })
-ScrollReveal().reveal('#aboutme', { delay: 2000 })
+ScrollReveal().reveal('#aboutme', { delay: 1500 })
+ScrollReveal().reveal('#work', { delay: 2000 })
 
 //Contact HTML 
 ScrollReveal().reveal('.contact')
@@ -15,7 +15,6 @@ ScrollReveal().reveal('.fa-at', { delay: 2000 })
 //About Me HTML
 ScrollReveal().reveal('h1')
 ScrollReveal().reveal('.frame', { delay: 500 })
-ScrollReveal().reveal('.aboutMePic', { delay: 1000 })
 
 //Portfolio HTML
 ScrollReveal().reveal('.portfolioHeadLine')

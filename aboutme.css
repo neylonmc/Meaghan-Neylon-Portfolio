@@ -41,6 +41,6 @@ img {
 }
 
 .navbar {
-    position: fixed;
-    top: 0%;
+    position: absolute;
+    margin: 0;
 }
