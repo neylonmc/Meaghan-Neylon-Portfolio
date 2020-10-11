@@ -12,7 +12,7 @@
   .left {
     left: 0;
     background-color: white;
-    color: black;
+    color: #22272c;
   }
   
   /* Control the right side */
@@ -30,3 +30,17 @@
     transform: translate(-50%, -50%);
     text-align: center;
   }
+
+img {
+    height: 200px;
+    width: 300px;    
+  }
+
+#runningPic {
+    height: 200px;
+    width: 400px;  
+}
+
+.frame {
+    border: 50px solid #22272c;
+}
