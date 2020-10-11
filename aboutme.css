@@ -13,6 +13,7 @@
     left: 0;
     background-color: white;
     color: #22272c;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   /* Control the right side */
@@ -20,6 +21,7 @@
     right: 0;
     background-color: #22272c;
     color: white;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   /* If you want the content centered horizontally and vertically */
@@ -43,4 +45,5 @@ img {
 .navbar {
     position: absolute;
     margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
 }

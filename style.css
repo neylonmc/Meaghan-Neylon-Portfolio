@@ -13,12 +13,14 @@
     left: 0;
     background-color: #22272c;
     color: white;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   /* Control the right side */
   .right {
     right: 0;
     background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   /* If you want the content centered horizontally and vertically */
@@ -44,4 +46,5 @@ img {
 #aboutme,
 #work {
   color: white;
+  font-family: 'Source Sans Pro', sans-serif;
 }

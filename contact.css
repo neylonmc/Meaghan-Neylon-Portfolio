@@ -12,6 +12,8 @@
   .left {
     left: 0;
     background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+
   }
   
   /* Control the right side */
@@ -19,6 +21,8 @@
     right: 0;
     background-color: #22272c;
     color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+
   }
 
   .centered {
@@ -36,6 +40,11 @@
   .fab,
   .fas {
     color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+
+  .navbar {
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   

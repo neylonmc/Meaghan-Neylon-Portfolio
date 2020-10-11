@@ -13,6 +13,7 @@
     left: 0;
     background-color: white;
     color: black;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   /* Control the right side */
@@ -20,6 +21,7 @@
     right: 0;
     background-color: #22272c;
     color: black;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   /* If you want the content centered horizontally and vertically */
@@ -33,10 +35,16 @@
 
   .card-body {
       text-align: center;
+      font-family: 'Source Sans Pro', sans-serif;
   }
 
 p,
 .fas,
 .fab {
     color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navbar {
+  font-family: 'Source Sans Pro', sans-serif;
 }
