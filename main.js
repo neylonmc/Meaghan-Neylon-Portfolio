@@ -15,5 +15,8 @@ ScrollReveal().reveal('.fa-at', { delay: 2000 })
 //About Me HTML
 ScrollReveal().reveal('h1')
 ScrollReveal().reveal('.frame', { delay: 500 })
-ScrollReveal().reveal('#aboutMeSection', { delay: 500 })
 ScrollReveal().reveal('.aboutMePic', { delay: 1000 })
+
+//Portfolio HTML
+ScrollReveal().reveal('.portfolioHeadLine')
+ScrollReveal().reveal('.tagline', { delay: 500 })
