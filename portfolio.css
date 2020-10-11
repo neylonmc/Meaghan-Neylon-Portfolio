@@ -8,35 +8,32 @@
     padding-top: 20px;
   }
   
-  /* Control the left side */
-  .left {
-    left: 0;
-    background-color: white;
-    color: black;
-    font-family: 'Source Sans Pro', sans-serif;
-  }
+.left {
+  left: 0;
+  background-color: white;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+}
   
-  /* Control the right side */
-  .right {
-    right: 0;
-    background-color: #22272c;
-    color: black;
-    font-family: 'Source Sans Pro', sans-serif;
-  }
+.right {
+  right: 0;
+  background-color: #22272c;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+}
   
-  /* If you want the content centered horizontally and vertically */
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-  }
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
 
-  .card-body {
-      text-align: center;
-      font-family: 'Source Sans Pro', sans-serif;
-  }
+.card-body {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
 
 p,
 .fas,
