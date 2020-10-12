@@ -45,3 +45,8 @@ img {
 .navbar {
     font-family: 'Source Sans Pro', sans-serif;
 }
+
+.aboutMe {
+  text-indent: 15px;
+  text-align: left;
+}
