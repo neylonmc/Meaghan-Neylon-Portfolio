@@ -40,10 +40,14 @@ img {
 
 .frame {
     border: 50px solid #22272c;
+    margin: 10px;
 }
 
 .navbar {
     font-family: 'Source Sans Pro', sans-serif;
+    position: relative;
+    z-index: 1;
+    background-color: white;
 }
 
 .aboutMe {
