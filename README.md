@@ -9,5 +9,5 @@ My portfolio has pages that allow users to contact me, know a little about me an
 
 <img src="assets/images/2020-10-11 15.26.23.gif" alt="GIF of webpage">
 
-## Published Site 
+### Published Site 
 https://neylonmc.github.io/Meaghan-Neylon-Portfolio/
