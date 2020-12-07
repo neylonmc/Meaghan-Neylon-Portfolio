@@ -11,7 +11,7 @@ ScrollReveal().reveal('.fa-github-square', { delay: 500 })
 ScrollReveal().reveal('.fa-twitter', { delay: 1000 })
 ScrollReveal().reveal('.fa-linkedin', { delay: 1500 })
 ScrollReveal().reveal('.fa-at', { delay: 2000 })
-ScrollReveal().reveal('.resume', { delay: 2500 })
+//ScrollReveal().reveal('.resume', { delay: 2500 })
 
 
 //About Me HTML
