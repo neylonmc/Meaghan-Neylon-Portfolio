@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "/assets/images/meggo.png" width="500px" >
+<img src = "/assets/images/Meaghan.jpg" width="500px" >
 </p>
 Portfolio to market my work, contact information and information about myself. 
 
