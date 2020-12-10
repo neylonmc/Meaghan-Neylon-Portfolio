@@ -1,13 +1,52 @@
 # Meaghan Neylon Portfolio
 Portfolio to market my work, contact information and information about myself. 
+### Deployed Link
+  Deployed link can be found here: https://neylonmc.github.io/Meaghan-Neylon-Portfolio/
 
-<img src="assets/images/2020-10-11 14.46.38.gif" alt="GIF of home page">
+## Table of Contents
+  
+* [Installation](#installation)
+  
+* [Usage](#usage)
 
-## About My Portfolio 
+* [Technology](#technology)
+  
+* [License](#license)
+  
+* [Contributing](#contributing)
+  
+* [Tests](#tests)
+  
+* [Questions](#questions)
 
-My portfolio has pages that allow users to contact me, know a little about me and see some of the projects I have been working on. 
+  
+## Usage
+
+Copy and paste link to the deployed application in browser: 
+```
+https://neylonmc.github.io/Meaghan-Neylon-Portfolio/
+```
 
 <img src="assets/images/2020-10-11 15.26.23.gif" alt="GIF of webpage">
 
-### Published Site 
-https://neylonmc.github.io/Meaghan-Neylon-Portfolio/
+## Technology
+
+
+
+### APIs and Libraries
+-   Bootstrap
+-   Vanilla Javascript
+-   ScrollReveal
+
+## License
+  [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
+  
+## Contributing
+  N/A
+  
+## Tests
+  N/A
+  
+## Questions
+  * GitHub: [neylonmc](https://github.com/neylonmc)
+  * Email: [neylonmc@gmail.com](mailto:neylonmc@gmail.com) 
