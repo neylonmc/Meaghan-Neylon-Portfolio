@@ -30,7 +30,7 @@ Copy and paste link to the deployed application in browser:
 https://neylonmc.github.io/Meaghan-Neylon-Portfolio/
 ```
 
-<img src="assets/images/2020-10-11 15.26.23.gif" alt="GIF of webpage">
+<img src="assets/images/2020-10-11 15.26.23.gif" width="100%" alt="GIF of webpage">
 
 ## Technology
 
