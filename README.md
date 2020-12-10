@@ -40,6 +40,7 @@ https://neylonmc.github.io/Meaghan-Neylon-Portfolio/
 -   Bootstrap
 -   Vanilla Javascript
 -   ScrollReveal
+-   Font Awesome
 
 ## License
   [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
