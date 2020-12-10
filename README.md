@@ -2,6 +2,7 @@
 <img src = "/assets/images/meggo.png" width="500px" >
 </p>
 Portfolio to market my work, contact information and information about myself. 
+
 ### Deployed Link
   Deployed link can be found here: https://neylonmc.github.io/Meaghan-Neylon-Portfolio/
 
